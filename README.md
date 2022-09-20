@@ -20,5 +20,3 @@ Please submit a link to a public Github repository that includes both your data 
 As of 2019/08/21 there are 193 such companies (there may be fewer). Please do not spam the web app.
 Together, using scrapy and NetworkX, your crawling and graph code should not go well beyond 100 lines of PEP8 code.
 
-Example Plot from NetworkX Tutorial
-Example Plot from NetworkX Tutorial
