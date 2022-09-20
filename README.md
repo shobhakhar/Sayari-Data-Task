@@ -1,5 +1,5 @@
 # Sayari-Data-Task
-Task
+## Task
 The Secretary of State of North Dakota provides a business search web app that allows users to search for businesses by name. Your task:
 
 Play around with the site and figure out how to query companies by name.
@@ -12,7 +12,7 @@ Hint: You may consider names as sufficiently unique to identify each node in the
 Hint: An example plot output is included below.
 Please submit a link to a public Github repository that includes both your data and plot.
 
-Notes
+### Notes
 As of 2019/08/21 there are 193 such companies (there may be fewer). Please do not spam the web app.
 Together, using scrapy and NetworkX, your crawling and graph code should not go well beyond 100 lines of PEP8 code.
 Example Plot from NetworkX Tutorial
