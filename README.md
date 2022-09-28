@@ -8,11 +8,5 @@ Download information for all active companies whose names start with the letter 
 Hint: scrapy is a suitable web-crawling framework.
 
 Create and plot a graph of the companies, registered agents, and owners.
-Hint: NetworkX is a suitable graph library that plays nice with matplotlib.
 
-Hint: You may consider names as sufficiently unique to identify each node in the graph.
-
-Hint: An example plot output is included below.
-
-Please submit a link to a public Github repository that includes both your data and plot.
 
